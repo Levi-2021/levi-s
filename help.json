@@ -1,0 +1,33 @@
+{
+    "Page 1" : {
+        "help" : "Help command (This command)",
+        "remind-me" : "Reminder",
+        "ping" : "Shows the latency of the bot",
+        "av" : "Shows the avatar of the user",
+        "server-info" : "Shows the info about the server"
+    },
+    "Page 2" : {
+        "user-info" : "Shows the info about the member",
+        "member-count" : "Shows the membercount of the server",
+        "poll" : "Poll with max 10 choices",
+        "purge" : "Purge up to 200 messages at a time (Administrator required)",
+        "webhook" : "Make a webhook with your avatar, name and custom message"
+    },
+    "Page 3" : {
+        "create-webhook" : "Make a webhook with a custom avatar, name and message",
+        "rps-bot" : "Play rock paper scissors agaist a bot",
+        "rps-user" : "Play rock paper scissors agaist a real person",
+        "role-info" : "Information about the role",
+        "check-role-perms" : "Check which permissions the role has"
+    },
+    "Page 4" : {
+        "check-user-perms" : "Check which permissions the user has",
+        "add-emoji" : "Adds an emoji to the server",
+        "iss" : "Get information about iss (International Space Station)",
+        "wheater" : "Shows the wheater in your region",
+        "Emojify" : "Emojifys your custom message"
+    },
+    "Page 5" : {
+        "slow-mode" : "Enable or disable slow mode in the channel"
+    }
+}
